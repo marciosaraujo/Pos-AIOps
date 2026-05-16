@@ -48,8 +48,6 @@ resource "aws_vpc" "this" {
 }
 ```
 
-```
----
 ## Modelo
 ```
 Claude Opus 4.7 Adaptativo

@@ -27,6 +27,8 @@ Cada arquivo `.md` obedece à estrutura:
 | **RTF** | Role · Task · Format | Tarefas objetivas com output delimitado |
 | **RISE** | Role · Input · Steps · Expectation | Análises complexas com raciocínio sequencial obrigatório |
 | **CARE** | Context · Action · Result · Example | Tarefas com requisito forte de conformidade de formato |
+| **B-A-B** | Before · After · Bridge | Refatorações e modernizações onde o gap entre estado atual e desejado é o centro do prompt |
+| **T-A-G** | Task · Action · Goal | Tarefas técnicas determinísticas com entrega estruturada (relatórios, scripts SQL) |
 
 ## Contexto de domínio
 

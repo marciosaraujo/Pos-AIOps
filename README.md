@@ -7,15 +7,18 @@ O curso forma o engenheiro de cloud que constrói _com_ IA: dominando AIOps, age
 - **Duração:** 12 meses
 - **Certificação:** reconhecida pelo MEC — Pós Lato Sensu (graduados) ou extensão universitária (não graduados)
 - **Formato:** laboratórios práticos
+- **Calendário (Turma 1):** [Notion](https://devfullcycle.notion.site/P-s-Gradua-o-AIOps-e-IA-na-Engenharia-de-Cloud-Turma-1-2f11423c038881998e34d0a3cc4296c9)
 
-## Temas do curso
+## Disciplinas
 
-- Engenharia de Prompt e Contexto
-- Engenharia Cloud e IaC com IA (Terraform)
-- Agentes e Automações Inteligentes
-- Observabilidade e AIOps — detecção de anomalias e incidentes
-- AIOps, DevOps e SRE com IA
-- Governança, Segurança e IA em Produção
+1. Fundamentos de IA
+2. Engenharia de Prompt e Contexto
+3. Agentes, Automações e Fundamentos de AIOps
+4. Infraestrutura Cloud, IaC e Arquitetura com IA
+5. Containers e Orquestração com IA
+6. DevOps, SRE e Pipelines Inteligentes com IA
+7. Governança e Segurança de IA
+8. Posicionamento Estratégico e Liderança Técnica
 
 ## Organização do repositório
 
